@@ -7,7 +7,23 @@ servidor e um painel de telemetria feito do zero.
 > Projetado e operado por mim. O Claude Code (IA) me ajuda nas investigações de problemas e na
 > manutenção do servidor.
 
-![Linha do meio do painel: chave do campeonato, discos, internet, FURIA ao vivo e ASF](assets/painel-linha-do-meio.png)
+![Painel Telemetria no desktop](assets/painel-desktop.png)
+
+<details>
+<summary>Mais imagens do painel</summary>
+
+| Aba Economia | Linha do meio com a FURIA ao vivo (simulação) |
+|---|---|
+| ![Aba Economia](assets/painel-economia.png) | ![Linha do meio](assets/painel-linha-do-meio.png) |
+
+**iPhone deitado:** carrossel de 4 telas, sem rolagem
+
+| | |
+|---|---|
+| ![Tela 1: estado, host e São Paulo](assets/iphone-tela-1.png) | ![Tela 2: serviços](assets/iphone-tela-2.png) |
+| ![Tela 3: chave, discos, internet, FURIA e ASF](assets/iphone-tela-3.png) | ![Tela 4: economia](assets/iphone-tela-4.png) |
+
+</details>
 
 ## Em números
 | | |

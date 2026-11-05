@@ -4,7 +4,11 @@
 (biblioteca padrão, sem framework) que junta tudo do lado do servidor e entrega um JSON único
 para uma página HTML.
 
-![Linha do meio do painel](../../assets/painel-linha-do-meio.png)
+![Painel no desktop](../../assets/painel-desktop.png)
+
+| Aba Economia | iPhone deitado (tela 3) |
+|---|---|
+| ![Aba Economia](../../assets/painel-economia.png) | ![iPhone deitado](../../assets/iphone-tela-3.png) |
 
 ## Como funciona
 - Cada coleta roda numa thread no seu próprio ritmo (serviços a cada 30 s, discos 5 min, notícias 15 min…)
