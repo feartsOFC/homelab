@@ -1,0 +1,10 @@
+# Checklist e rascunhos pessoais não vão para o GitHub
+CHECKLIST-PUBLICACAO.md
+rascunhos/
+*.bak
+.env
+*.env
+*.cred
+*PASS*
+*.pem
+*.key
